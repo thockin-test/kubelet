@@ -1,0 +1,4 @@
+[submodule "vendor/github.com/thockin-test/util"]
+	path = vendor/github.com/thockin-test/util
+	url = https://github.com/thockin-test/util
+	branch = master
